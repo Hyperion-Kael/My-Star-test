@@ -1,5 +1,5 @@
 # My-Star-test
-本人为华中科技大学aia2502黄奕童
+本人为华中科技大学aia2502hyt
 此系STAR电控组二阶段招新考核内容
 包括arduino舵机控制以及opencv的应用
 详情还是看分支吧，真的用不懂GitHub
