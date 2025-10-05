@@ -2,4 +2,8 @@
 本人为华中科技大学aia2502hyt
 此系STAR电控组二阶段招新考核内容
 包括arduino舵机控制以及opencv的应用
-详情还是看分支吧，真的用不懂GitHub
+main里面包括了arduino的内容和opencv的内容
+servo以及代码改进版servo.2都是arduino的
+然后read.py和video.py是opencv处理图片及视频的代码
+然后分支里面有个master，里面是opencv的整个文件夹
+真的用不懂GitHub，hhhhhh
